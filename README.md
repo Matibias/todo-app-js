@@ -1,4 +1,4 @@
-# js-moderno-vite-todo
+# js-vite-todo
 
 1. Clonar repositorio
 2. Ejecutar ```npm install```
